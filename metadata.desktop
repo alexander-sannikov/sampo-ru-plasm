@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sampo-ru-plasmoid
+Comment=Sampo.ru information
+Comment[ru]=Проверка счета для Sampo.ru
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=icon.png
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Alexander Sannikov
+X-KDE-PluginInfo-Email=a.sanniko@gmail.com
+X-KDE-PluginInfo-Name=sampo-ru-plasmoid
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=BeautifulSoup
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-NotificationArea=true
